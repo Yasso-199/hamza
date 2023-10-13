@@ -1,0 +1,25 @@
+img{
+    height: 540px;
+    width: 540px;
+    padding: 20px;
+}
+/* #column img{
+    margin: 30px;
+    padding: 30px;
+} */
+body{
+    background-color: red;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    margin: 10px;
+    color: white;
+}
+h3{
+    padding: 15px;
+    margin: 50px;
+}
